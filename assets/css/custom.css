@@ -247,6 +247,36 @@ input:checked + .collapse + *{
   color: #000;
 }
 
+.page6line2:after {
+  position: absolute;
+  content: "";
+  height: 1px;
+  background-color: #999;
+  width: 80%;
+  margin-left: -45%;
+  top: 98%;
+}
+
+.page6line6:after {
+  position: absolute;
+  content: "";
+  height: 1px;
+  background-color: #999;
+  width: 80%;
+  margin-left: -49%;
+  top: 98%;
+}
+
+.page6line7:after {
+  position: absolute;
+  content: "";
+  height: 1px;
+  background-color: #999;
+  width: 80%;
+  margin-left: -53%;
+  top: 98%;
+}
+
 .page6line3 {
   /* font-size: 30px; */
   font-size: 2.2vw;
@@ -273,6 +303,30 @@ input:checked + .collapse + *{
   font-size: 2.8vw;
   position: relative;
   color: #000;
+}
+
+.page6line7 {
+  /* font-size: 38px; */
+  margin-top: 1%;
+  font-size: 2.8vw;
+  position: relative;
+  color: #000;
+}
+
+.page6line8 {
+  margin-top: 1%;
+}
+
+.page6line9 {
+  /* font-size: 38px; */
+  font-size: 2vw;
+  position: relative;
+  color: #000;
+}
+
+.Input {
+  width: 50vw;
+  margin: 0 auto; 
 }
 
 .signup {
