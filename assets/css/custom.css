@@ -324,6 +324,11 @@ input:checked + .collapse + *{
   color: #000;
 }
 
+.result {
+  width: 70%;
+  /* height: 100%; */
+}
+
 .Input {
   width: 50vw;
   margin: 0 auto; 
